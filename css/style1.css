@@ -1,0 +1,70 @@
+
+.container ul li {width: ;
+  list-style: none;
+  
+  
+}
+h1 {
+  text-align: center; color: white;
+}
+.content{  background-color: crimson;
+ padding-top: 50px;
+  height: 100vh;
+}
+.contain {padding-top: 20px;
+  /* background-color: white; */
+  width: 86%;
+  margin-left: 5%;
+  border-radius: 20px;
+  padding-bottom: 20px;
+  
+ 
+  
+  
+}
+.tox {background-color: white;
+  width: 26%;
+margin-right: 2%;
+text-align: center;
+height: 250px;
+line-height: 35px;
+}
+.tox2 {background-color: white;
+  width: 26%;
+margin-right: 2%;
+text-align: center;
+height: 300px;
+line-height: 35px;
+}
+
+.tox3 {background-color: white;
+  width: 26%;
+margin-right: 2%;
+text-align: center;
+height: 350px;
+line-height: 35px;
+
+}
+.pox li{font-weight: 600;
+  color: crimson;
+}
+ ul{
+  display: flex;
+  justify-content: space-evenly;
+
+}
+.rox{
+  width:60% ;
+  height: 50px;
+  border: 2px solid;
+  margin-left: 20%;
+  background-color: rgba(173, 4, 4, 0.39);
+}
+h3 {
+  text-align: center;
+}
+
+p{
+  color: white;
+  margin-left: 10%;
+}
